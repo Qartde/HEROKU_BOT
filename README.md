@@ -9,7 +9,7 @@
 
 # 🪡 GET SESSION ID HERE👇 🔥🐛
 
- <a href="https://rahzayn-11.onrender.com"><img title="SESSION SITE" src="https://img.shields.io/badge/SESSION SITE-h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+ <a href="https://rahmani-4.onrender.com"><img title="SESSION SITE" src="https://img.shields.io/badge/SESSION SITE-h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 **1CREATE ACCOUNT IF DONT HAVE ACCOUNT**
@@ -26,3 +26,17 @@
 ##
 
 
+**<summary>🔹️⚕ DEPLOY BOT ON 🔸️</summary>**
+	 
+--------
+
+3.  **DEPLOY IN REPLIT**
+
+   <a href='https://repl.it/github/sadiyamin/Lara-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=blue'/></a>
+
+   3.  #### DEPLOY IN KOYEB
+
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/kingmalvn/LORD-XMD&branch=main&name=lord-xmd&builder=dockerfile&env[OWNER_NUMBER]=263714757857%3B%E2%9D%A3%EF%B8%8F&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[AUTO_REPLY]=false&env[STATUSLIKES]=true&env[ALIVE_MSG]=LORDX+IS+ONLINE&env[BOT_NAME]=LORD-XMD&env[HEART_REACT]=true%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[ANTI_BAD]=false&env[AUTO_READ_STATUS]=false&env[AutoReaction]=false&env[SESSION_ID]=' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+
+--------
