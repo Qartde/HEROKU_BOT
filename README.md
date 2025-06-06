@@ -26,7 +26,7 @@
 ##
 
 
-**<summary>🔹️⚕ DEPLOY BOT ON 🔸️</summary>**
+**<summary>🌟⚕ DEPLOY BOT ON ✅</summary>**
 	 
 --------
 
@@ -40,3 +40,14 @@
 
 
 --------
+
+4. **DEPLOY TO RENDER**
+
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+
+--------
+
+
+7. **DEPLOY TO RAILWAY**
+
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
