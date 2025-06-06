@@ -19,7 +19,8 @@
 
 
 **2. Deploy To Heroku**       
-   <a href='https://dashboard.heroku.com/new?template=https://github.com/Qartde/HEROKU_XMD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄-blue?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
+   <a 
+    href='https://dashboard.heroku.com/new?template=https://github.com/Qartde/HEROKU_XMD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄-blue?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
 </details>
 
 ##
