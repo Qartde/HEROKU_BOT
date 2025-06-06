@@ -33,6 +33,7 @@
 3.  **DEPLOY IN REPLIT**
 
    <a href='https://repl.it/github/sadiyamin/Lara-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=blue'/></a>
+
 --------
    3.  #### DEPLOY IN KOYEB
 
@@ -51,3 +52,11 @@
 7. **DEPLOY TO RAILWAY**
 
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
+
+--------
+
+5.  #### DEPLOY TO CODESPACE
+
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
+--------
