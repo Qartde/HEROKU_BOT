@@ -1,9 +1,9 @@
 {
-  "name": "🤹‍ʟᴏʀᴅ-xᴍᴅ🤹‍",
-  "description": "ᴛʜᴇ ʙᴇsᴛ ᴡᴀ ʙᴏᴛ ʙʏ ᴍ ᴋɪɴɢ",
-  "logo": "https://files.catbox.moe/ug2x1y.jpg",
+  "name": " HEROKU_XMD",
+  "description": "𝙷𝙴𝚁𝙾𝙺𝚄_𝚇𝙼𝙳 𝙰𝙻𝚆𝙰𝚈𝚂",
+  "logo": "https://files.catbox.moe/aax81i.jpg",
   "keywords": ["bot"],
-  "success_url": "https://github.com/kingmalvn/LORD-XMD",
+  "success_url": "https://github.com/Qartde/HEROKU_XMD",
 
     "stack": "container",
   "env": {
