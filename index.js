@@ -77,7 +77,7 @@ require("./plugins/" + plugin);
 }
 });
 console.log('𝙿𝙻𝚄𝙶𝙸𝙽𝚂 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽𝚂𝚃𝙰𝙻𝙻 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 ✅')
-console.log('𝙻𝙾𝚁𝙳 𝚇𝙼𝙳 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝚃𝙾 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙴𝙽𝙹𝙾𝚈 ✅')
+console.log('𝙷𝙴𝚁𝙾𝙺𝚄 𝚇𝙼𝙳 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝚃𝙾 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙴𝙽𝙹𝙾𝚈 ✅')
 
 let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅ 
 
