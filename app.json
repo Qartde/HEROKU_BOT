@@ -1,9 +1,9 @@
 {
-  "name": "𝙷𝙴𝚁𝙾𝙺𝚄_𝚇𝙼𝙳‍",
+  "name": "𝙷𝙴𝚁𝙾𝙺𝚄_𝙱𝙾𝚃",
   "description": "ᴛʜᴇ ʙᴇsᴛ ᴡᴀ ʙᴏᴛ ʙʏ 𝙷𝙴𝚁𝙾𝙺𝚄",
   "logo": "https://files.catbox.moe/aax81i.jpg",
   "keywords": ["bot"],
-  "success_url": "https://github.com/Qartde/HEROKU_XMD",
+  "success_url": "https://github.com/Qartde/HEROKU_BOT",
 
     "stack": "container",
   "env": {
