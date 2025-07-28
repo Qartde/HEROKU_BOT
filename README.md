@@ -5,7 +5,7 @@
 
 ** 💫FORK THIS REPO👇 AND GIVE STAR 🌟 ✅
 
-<a href="https://github.com/Qartde/HEROKU_XMD/fork"><img title="ALI-MD" src="https://img.shields.io/badge/FORK-HEROKU%20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Qartde/HEROKU_BOT/fork"><img title="ALI-MD" src="https://img.shields.io/badge/FORK-HEROKU%20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
 
 # 🪡 GET SESSION ID HERE👇 🔥🐛
 
@@ -20,7 +20,7 @@
 
 **2. Deploy To Heroku**       
    <a 
-    href='https://dashboard.heroku.com/new?template=https://github.com/Qartde/HEROKU_XMD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄-blue?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
+    href='https://dashboard.heroku.com/new?template=https://github.com/Qartde/HEROKU_BOT/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄-blue?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
 </details>
 
 ##
@@ -66,3 +66,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F92C43F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=HEROKU-XMD;MADE+BY+HEROKU" alt="Typing SVG" /></a>
 
 ----
+## REMEMBER TO FORK 🔱 THE REPO AND GIVE STAR🌟
+___________________
+
+## by Rahmani
